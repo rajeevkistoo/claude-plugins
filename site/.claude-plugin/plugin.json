@@ -1,0 +1,8 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "Build a contractor website with Claude Code in one afternoon: the agent interviews you, builds the site, does the SEO, and checks it before you publish.",
+  "author": {
+    "name": "Rajeev Kistoo"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "rajeevkistoo",
+  "description": "Plugins from Rajeev Kistoo for business owners who build with Claude Code.",
+  "owner": {
+    "name": "Rajeev Kistoo"
+  },
+  "plugins": [
+    {
+      "name": "site",
+      "displayName": "The Afternoon Website",
+      "source": "./site",
+      "description": "Build a contractor website with Claude Code in one afternoon: the agent interviews you, builds the site, does the SEO, and checks it before you publish.",
+      "author": {
+        "name": "Rajeev Kistoo"
+      }
+    }
+  ]
+}
