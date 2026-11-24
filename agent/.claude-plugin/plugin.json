@@ -1,0 +1,8 @@
+{
+  "name": "agent",
+  "version": "1.0.0",
+  "description": "Build your first AI agent in one afternoon, then copy it to build the next one: an agent is a folder with a rulebook, one job, a template and a check.",
+  "author": {
+    "name": "Rajeev Kistoo"
+  }
+}

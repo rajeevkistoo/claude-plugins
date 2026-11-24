@@ -14,6 +14,15 @@
       "author": {
         "name": "Rajeev Kistoo"
       }
+    },
+    {
+      "name": "agent",
+      "displayName": "The Afternoon Agent",
+      "source": "./agent",
+      "description": "Build your first AI agent in one afternoon, then copy it to build the next one: an agent is a folder with a rulebook, one job, a template and a check.",
+      "author": {
+        "name": "Rajeev Kistoo"
+      }
     }
   ]
 }
